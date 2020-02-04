@@ -17,6 +17,12 @@ html {
   scroll-behavior: smooth;
   overflow-x: hidden;
 }
+#diving {
+  background: url(recources/diving_bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 
 body {
     min-width: 500px;
